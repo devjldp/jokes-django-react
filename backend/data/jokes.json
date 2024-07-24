@@ -1,0 +1,197 @@
+[
+    {
+        "model": "jokes.category",
+        "pk": 1,
+        "fields": {
+            "category": "Programming"
+        }
+    },
+    {
+        "model": "jokes.category",
+        "pk": 2,
+        "fields": {
+            "category": "Science"
+        }
+    },
+    {
+        "model": "jokes.category",
+        "pk": 3,
+        "fields": {
+            "category": "Math"
+        }
+    },
+    {
+        "model": "jokes.category",
+        "pk": 4,
+        "fields": {
+            "category": "History"
+        }
+    },
+    {
+        "model": "jokes.category",
+        "pk": 5,
+        "fields": {
+            "category": "Animals"
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 1,
+        "fields": {
+            "joke": "Why do programmers prefer dark mode? Because light attracts bugs!",
+            "category": 1
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 2,
+        "fields": {
+            "joke": "How many programmers does it take to change a light bulb? None, that’s a hardware problem.",
+            "category": 1
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 3,
+        "fields": {
+            "joke": "Why do Java developers wear glasses? Because they don’t see sharp.",
+            "category": 1
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 4,
+        "fields": {
+            "joke": "What do you call a bear with no teeth? A gummy bear!",
+            "category": 5
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 5,
+        "fields": {
+            "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+            "category": 5
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 6,
+        "fields": {
+            "joke": "Why did the bicycle fall over? It was two-tired.",
+            "category": 5
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 7,
+        "fields": {
+            "joke": "Why don't scientists trust atoms? Because they make up everything!",
+            "category": 2
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 8,
+        "fields": {
+            "joke": "What does a physicist say when they are unhappy? 'I’m feeling a little down.'",
+            "category": 2
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 9,
+        "fields": {
+            "joke": "What did the biologist wear to impress his date? Designer genes!",
+            "category": 2
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 10,
+        "fields": {
+            "joke": "Why was the math book sad? Because it had too many problems.",
+            "category": 3
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 11,
+        "fields": {
+            "joke": "What’s the official animal of Pi Day? The Pi-thon!",
+            "category": 3
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 12,
+        "fields": {
+            "joke": "Why was the equal sign so humble? Because it knew it wasn’t less than or greater than anyone else.",
+            "category": 3
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 13,
+        "fields": {
+            "joke": "Why did the historian go to jail? Because he was caught in the act of changing history!",
+            "category": 4
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 14,
+        "fields": {
+            "joke": "Why was the Roman Empire so strong? Because it had a lot of legions!",
+            "category": 4
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 15,
+        "fields": {
+            "joke": "What do you call a medieval knight who always tells the truth? A chivalrous liar!",
+            "category": 4
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 16,
+        "fields": {
+            "joke": "Why did the mathematician refuse to attend the dinner party? Because he knew it would be too integral.",
+            "category": 3
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 17,
+        "fields": {
+            "joke": "What did one wall say to the other wall? 'I’ll meet you at the corner!'",
+            "category": 5
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 18,
+        "fields": {
+            "joke": "Why did the computer go to the doctor? It had a virus!",
+            "category": 1
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 19,
+        "fields": {
+            "joke": "Why do programmers prefer nature? It has no bugs.",
+            "category": 1
+        }
+    },
+    {
+        "model": "jokes.joke",
+        "pk": 20,
+        "fields": {
+            "joke": "Why did the programmer quit his job? Because he didn’t get arrays.",
+            "category": 1
+        }
+    }
+]
